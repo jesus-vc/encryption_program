@@ -5,7 +5,7 @@
 
 **Description:** A program to encrypt and decrypt a message using a shift cipher.
 
-**Constraints: **The plaintext message must only contain the codebook characters
+**Constraints:** The plaintext message must only contain the codebook characters
 
 **Function:** int main()
 **Input: **User inputs various data types to calculate accumulated interest.
